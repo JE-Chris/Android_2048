@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Game_2048</string>
+    <string name="model">模式选择</string>
+    <string name="start">开始游戏</string>
+    <string name="history">历史排行</string>
+    <string name="Menu">游戏目录</string>
+    <string name="sound_control">音量控制</string>
+    <string name="bgm">声音控制</string>
+    <string name="finish">完成</string>
+    <string name="model_classic">经典模式</string>
+    <string name="model_limit">限时模式</string>
+    <string name="countdown">倒计时模式</string>
+    <string name="game_2048">2048</string>
+    <string name="name">姓名</string>
+    <string name="score">得分</string>
+
+    <!-- dialog 字符串 -->
+    <string name="dialog_hint">您的姓名</string>
+    <string name="dialog_title">您输了</string>
+    <string name="dialog_positive">我要入榜</string>
+    <string name="dialog_negative">放弃</string>
+    <string name="dialog_open_title">用户信息</string>
+    <string name="continueGame">继续游戏</string>
+</resources>
